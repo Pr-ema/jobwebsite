@@ -443,10 +443,22 @@ p{
     margin-bottom:10px ;
     text-transform: uppercase;
 }
-#services .service-item p{
+#services .service-item h3{
+    font-size: 2rem;
+    color: white;
+    margin-bottom:10px ;
+    text-transform: uppercase;
+}
+#services .service-item ul{
 color: white;
 text-align: left;
+font-size: medium;
 }
+#services .service-item ol{
+    color: white;
+    text-align: left;
+    font-size: medium;
+    }
 /* End Services section */
 
 /* Contact Section */
